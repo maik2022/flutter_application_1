@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718792820556",
+    "project_id": "flutter-libros",
+    "storage_bucket": "flutter-libros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718792820556:android:8f8d914f73d43cb242b1e9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718792820556-id37tvn1khbp6mn9c569evnq405ke408.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdiYjSJepurqGOSuG_KfT_egKeF8Zvoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718792820556-id37tvn1khbp6mn9c569evnq405ke408.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
